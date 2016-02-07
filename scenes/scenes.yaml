@@ -1,0 +1,66 @@
+# vim:ts=2:sts=2:sw=2:et
+---
+scenes:
+  caverns:
+    pad: 1
+    channel: 1
+    group: Gaming
+    colors: 
+      - 0.187
+      - 0.0785
+    saturation: 251
+    brightness: 100
+  fire:
+    pad: 2
+    channel: 1
+    group: Gaming
+    colors: 
+      - 0.670
+      - 0.324
+    saturation: 251
+    brightness: 100
+  forest:
+    pad: 3
+    channel: 1
+    group: Gaming
+    colors: 
+      - 0.408
+      - 0.517
+    saturation: 254
+    brightness: 200
+  tavern:
+    pad: 4
+    channel: 1
+    group: Gaming
+    colors: 
+      - 0.282 
+      - 0.267
+    saturation: 254
+    brightness: 100
+  sunset:
+    pad: 5
+    channel: 1
+    group: Gaming
+    colors: 
+      - 0.473 
+      - 0.428
+    saturation: 254
+    brightness: 100
+  daylight:
+    pad: 13
+    channel: 1
+    group: Gaming
+    colors: 
+      - 0.346
+      - 0.359
+    saturation: 254
+    brightness: 250
+  warmth:
+    pad: 14
+    channel: 1
+    group: Gaming
+    colors: 
+      - 0.394
+      - 0.394
+    saturation: 254
+    brightness: 250
